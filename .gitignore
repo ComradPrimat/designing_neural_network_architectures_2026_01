@@ -8,4 +8,7 @@ tmp/
 build
 htmlcov
 
-*/data/*
+**/data/
+*.pth
+
+.ipynb_checkpoints/

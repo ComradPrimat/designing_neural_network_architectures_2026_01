@@ -7,11 +7,11 @@
 
 | № | Решение | Статус |
 |---|---|---|
-| 01 | [Решение](homework/sem_02/) | В процессе |
-| 02 | [Решение](homework/sem_03/) | Не начат |
+| 01 | [Решение](sem_02/seminar_02.ipynb) | В процессе |
+| 02 | [Решение](sem_03/seminar_03.ipynb) | Не начат |
 
 ## Итоговый проект
 
 | Проект | Решение | Статус |
 |---|---|---|
-| Final project | [Материалы](https://github.com/ComradPrimat/lighting-classification) | Не начат |
+| Классификация уровня освещенности | [Материалы](https://github.com/ComradPrimat/lighting-classification) | Не начат |
